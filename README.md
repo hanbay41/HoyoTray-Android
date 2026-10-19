@@ -10,6 +10,12 @@ Optional automatic HoYoLAB daily check-in and redemption codes.
 
 The Android companion of [HoyoTray for Windows](https://github.com/hanbay41/HoyoTray).
 
+<p align="center">
+  <img src="docs/main.png" alt="Main screen" width="300">
+  &nbsp;&nbsp;
+  <img src="docs/widget.png" alt="Home-screen widget" width="420">
+</p>
+
 ## Features
 
 - **Main screen**: a card per game and account with the current value, a progress bar,
