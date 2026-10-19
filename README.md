@@ -13,7 +13,7 @@ The Android companion of [HoyoTray for Windows](https://github.com/hanbay41/Hoyo
 <p align="center">
   <img src="docs/main.png" alt="Main screen" width="300">
   &nbsp;&nbsp;
-  <img src="docs/widget.png" alt="Home-screen widget" width="420">
+  <img src="docs/widget.png" alt="Home-screen widget" width="300">
 </p>
 
 ## Features
